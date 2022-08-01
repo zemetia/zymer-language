@@ -7,3 +7,5 @@ Library basic
 	6. import "(file indox nya)"
 	7. Selama
 	8. Jika
+
+<script type="module" src="./assets/js/Client.js"></script>

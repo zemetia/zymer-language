@@ -5,7 +5,7 @@ let indoxSRCarr = [];
 let indoxVar = [];
 let script = [];
 let error = [];
-let functionAtt = [];//functionAtt['namafungsi']={script:[script],var:[variable]}
+let functionAtt = []; //functionAtt['namafungsi']={script:[script],var:[variable]}
 let lm = 0;
 let selamaBool;
 var regex = {
