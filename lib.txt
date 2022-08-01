@@ -1,0 +1,9 @@
+Library basic
+	1. tampil \args
+	2. declare variable
+	3. #, ., ~ untuk DOM HTML
+	4. masukkan \args ke (\variable atau \dom)
+	5. Logical (dan, atau, !) 
+	6. import "(file indox nya)"
+	7. Selama
+	8. Jika

@@ -1,0 +1,20 @@
+Bahasa program tingkat rendah basis bahasa indonesia
+di compile ke dalam bahasa javascript
+
+cara compile
+di compile di dalam program => didalam html ada file pembaca nya terus di implementasikan
+atau di compile jadi javascript
+
+buat pembeda
+misal
+jika,fungsi,dll yang udah di tentukan adalah fungsi bawaan
+blabla berbentuk kaya fungsi tapi gaada dalam fungsi adalah variable
+fungsi(isi)=> jika dideteksi maka yang dalam kurung datanya dikirim ke fungsi nya
+"=" 
+#id
+.class-axawd-awdwq-dwcs() => document.[querySelector](nama)[axawd][awdwq][dwcs]
+=> dengan () atau tidak
+itu di eksplode/split => [0].class [1]axawd [2]awdwq [3]dwcs()
+for x in arraynya => $classes = document.queryselector([0])
+=> $classes[[1]] ,dst jika ada () => $classes[[3]]("","",""???
+ax.match(/^(?!#)([A-z]+)/g))
